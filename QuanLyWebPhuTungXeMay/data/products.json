@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "Name": "lop",
+      "Price": 500000,
+      "Amount": 20
+    },
+    {
+      "Name": "phuoc",
+      "Price": 1000000,
+      "Amount": 30
+    },
+    {
+      "Name": "mam",
+      "Price": 2000000,
+      "Amount": 45
+    },
+    {
+      "Name": "nhot",
+      "Price": 200000,
+      "Amount": 50,
+      "TongTien": 10000000
+    },
+    {
+      "Name": "dia",
+      "Price": 300000,
+      "Amount": 55,
+      "TongTien": 16500000
+    }   
+  ]
+}
