@@ -6,6 +6,6 @@ namespace QuanLyWebPhuTungXeMay
 {
     class Common
     {
-        public static string FullPath = @"D:\casestudymodule2\QuanLyWebPhuTungXeMay\quanlywebphutungxemay\QuanLyWebPhuTungXeMay\data\";
+        public static string FullPath = @"D:\casemodun2_phutungxemay\QuanLyWebPhuTungXeMay\data\";
     }
 }

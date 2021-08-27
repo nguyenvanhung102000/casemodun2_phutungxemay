@@ -75,8 +75,8 @@ namespace QuanLyWebPhuTungXeMay
                     Console.WriteLine("Sản phảm không tồn tại! ");
                 }
                 Console.WriteLine("Bạn có muốn tiếp tục mua hàng? ");
-                Console.WriteLine("Bấm c nếu tiếp tục mua hàng.");
-                Console.WriteLine("Bấm k nêu không muốn tiếp tục mua hàng.");
+                Console.WriteLine("Bấm (c) nếu tiếp tục mua hàng.");
+                Console.WriteLine("Bấm (k) nêu không muốn tiếp tục mua hàng.");
                 choice = Console.ReadLine();
             }
             while (choice != "k");

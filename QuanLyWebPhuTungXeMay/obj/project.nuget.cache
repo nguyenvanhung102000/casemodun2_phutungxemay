@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B9DOG/ioV5LjJ5jMuZgDHbdDfr8DFeULu4Wfw9T3CBJqwtDKTC4ZF0KVM1eGo2+nvjkbPjXIf0+anQkYRtdeOg==",
+  "dgSpecHash": "zdB62zOVbxQkLC6VNAAYJA1z1pBVuVNmrL09DeocaxI5TVdgvVPjRMA1Ny6M0JUFexcS7vQmzqKxGAqI0WoRzA==",
   "success": true,
-  "projectFilePath": "D:\\casestudymodule2\\QuanLyWebPhuTungXeMay\\quanlywebphutungxemay\\QuanLyWebPhuTungXeMay\\QuanLyWebPhuTungXeMay.csproj",
+  "projectFilePath": "D:\\casemodun2_phutungxemay\\QuanLyWebPhuTungXeMay\\QuanLyWebPhuTungXeMay.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

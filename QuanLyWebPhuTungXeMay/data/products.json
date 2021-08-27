@@ -18,14 +18,12 @@
     {
       "Name": "nhot",
       "Price": 200000,
-      "Amount": 50,
-      "TongTien": 10000000
+      "Amount": 50
     },
     {
       "Name": "dia",
       "Price": 300000,
-      "Amount": 55,
-      "TongTien": 16500000
+      "Amount": 55
     }   
   ]
 }

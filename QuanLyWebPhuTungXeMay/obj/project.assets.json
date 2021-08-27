@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\casestudymodule2\\QuanLyWebPhuTungXeMay\\quanlywebphutungxemay\\QuanLyWebPhuTungXeMay\\QuanLyWebPhuTungXeMay.csproj",
+      "projectUniqueName": "D:\\casemodun2_phutungxemay\\QuanLyWebPhuTungXeMay\\QuanLyWebPhuTungXeMay.csproj",
       "projectName": "QuanLyWebPhuTungXeMay",
-      "projectPath": "D:\\casestudymodule2\\QuanLyWebPhuTungXeMay\\quanlywebphutungxemay\\QuanLyWebPhuTungXeMay\\QuanLyWebPhuTungXeMay.csproj",
+      "projectPath": "D:\\casemodun2_phutungxemay\\QuanLyWebPhuTungXeMay\\QuanLyWebPhuTungXeMay.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\casestudymodule2\\QuanLyWebPhuTungXeMay\\quanlywebphutungxemay\\QuanLyWebPhuTungXeMay\\obj\\",
+      "outputPath": "D:\\casemodun2_phutungxemay\\QuanLyWebPhuTungXeMay\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
